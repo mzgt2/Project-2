@@ -1,4 +1,5 @@
-# Tip Calculator
+# Project 2
+## Tip Calculator
 
 A simple command-line tip calculator I built while learning Python. It calculates tips, totals, and splits bills between people.
 
